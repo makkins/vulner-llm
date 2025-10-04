@@ -1,0 +1,8 @@
+chainlit>=2.0.0
+langchain>=0.0.258
+faiss-cpu
+sentence-transformers
+python-dotenv
+requests
+langchain-community
+langchain-core
